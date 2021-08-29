@@ -1,10 +1,31 @@
 # Facts About Amazon
 This is a markdown file with an in depth history of many morally wrong practices at Amazon. This list is very much not complete, and at the end I have included my sources.
 
+Some of these sentences are going to sound very similar to those found on [Amazon's Wikipedia page](https://en.wikipedia.org/wiki/Amazon_(company)), as that is because it is where I found the sources and information for much of this.
+
 ## Controversies
 
 ### Environmental Impact:
-In 2018, 44.4 million tons of CO2 we're emitted by amazon.<sup>[1]</sup> As part of the Global Climate strike, over 1,800 employees in 14 countries walked out in September 2019 to protest the impact and lack of action taken against climate change[2]. These workers also petitioned the company and it's now ex-CEO (Jeff "Knockoff-and-Shittier Dr. Evil" Bezos) to stop donating to politicians and lobbyists who deny the existance of climate change, to stop working with fossil fuel companies in accelerating oil extraction from the earth, and to be carbon-zero by 2030.<sup>[3]</sup><sup>[4]</sup>
+In 2018, 44.4 million tons of CO2 we're emitted by amazon.<sup>[1]</sup> As part of the Global Climate strike, over 1,800 employees in 14 countries walked out in September 2019 to protest the impact and lack of action taken against climate change.<sup>[2]</sup> These workers also petitioned the company and it's now ex-CEO (Jeff "Knockoff-and-Shittier Dr. Evil" Bezos) to stop donating to politicians and lobbyists who deny the existance of climate change, to stop working with fossil fuel companies in accelerating oil extraction from the earth, and to be carbon-zero by 2030.<sup>[3]</sup><sup>[4]</sup>
+
+While amazon has introduced Shipment Zero to have 50% of all amazon shipments to be carbon neutral by 2030, but it only covers 50% of shipments and the overall carbon emissions by Amazon will most likely grow overall due to Amazon's growth in general.<sup>[5]</sup>
+
+Jeff "Knockoff-and-Shittier Dr. Evil" Bezos has also pledged to be carbon zero by 2040, but that is still almost 20 years away at this point.<sup>[6]</sup>
+
+As a contradiction to Amazon's pledges to fight climate, they also fund climate change denial groups and politicians such as the Competitive Enterprise Institute and Jim Inhofe.<sup>[7]</sup><sup>[8]</sup>
+
+### Counterfeit, Unsafe and Discarded Items
+Amazon has been known to sell and ship counterfeight items, from both third-party fulfillers and their own warehouses.<sup>[9]</sup> Some of these counterfeight products have been found to be fire hazards, espescially ones marketed to be Apple Chargers.<sup>[10]</sup><sup>[11]</sup> One other thing to note is that the existance of these items isn't simply tied to high ticket items, but small and cheap ones as well.<sup>[12][13][14]</sup> Last, but certainly not least, some of these counterfeight items were copies of items from small businesses and artists without their permission at a large scale.<sup>[15]</sup> 
+
+In terms of unsafe and low quality items, many of the "Amazon's Choice" are low quality, have many customer complaints, and are also deemed to be the subject of review manipulation as Buzfeed reported in June of 2019.<sup>[16]</sup>
+
+In August 2019, The Wall Street Journal, found more than 4,000 items which had either been banned by federal regulators, were declared unsafe by federal agencies, and/or had misleading labels.<sup>[17]</sup>
+
+Following the Buzzfeed and WSJ reports, letters were sent to Bezos regarding the counterfeight items (U.S. Senators Richard Blumenthal and Bob Mendex) and the unsafe items (aforementioned Senators along with U.S. Senator Ed Markey) in September of 2019.<sup>[17]</sup><sup>[18]</sup> 
+
+Later that year, the WSJ also reported on the occurance and ease of selling items retrieved from dumpsters and reporting them as being new. Additionally, these items we're being obtained from clearance sections, thrift stores, and pawn shops by sellers to use as stock.<sup>[19]</sup><sup>[20]</sup>
+
+Due to a replacement battery bought by a Californian off of Amazon giving her 3rd degree burns, an appeals court in California ruled Amazon could be held accountable for unsafe products sold on the site.<sup>[21]</sup>
 
 ### sources
 |My Source Num|Wikipedia Source Num|
@@ -13,3 +34,20 @@ In 2018, 44.4 million tons of CO2 we're emitted by amazon.<sup>[1]</sup> As part
 2|171
 3|172
 4|173
+5|174
+6|175
+7|166
+8|167
+9|179
+10|180
+11|181
+12|182
+13|183
+14|184
+15|185
+16|187
+17|188
+18|189
+19|190
+20|191
+21|192
