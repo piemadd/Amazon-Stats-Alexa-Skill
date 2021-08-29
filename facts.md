@@ -27,7 +27,21 @@ Later that year, the WSJ also reported on the occurance and ease of selling item
 
 Due to a replacement battery bought by a Californian off of Amazon giving her 3rd degree burns, an appeals court in California ruled Amazon could be held accountable for unsafe products sold on the site.<sup>[21]</sup>
 
-### sources
+### Tax Avoidance
+In 2019, Fair Tax Mark repoprted that Amazon's effective tax rate between 2010 and 2018 was only 12% accross China, Germany, Poland, South Korea, France, Japan, Ireland, Singapore, Luxembourg, Italy, Spain, the UK, the US, and Portugal.<sup>[22]</sup><sup>[23]</sup> Amazon refuted this by saying they paid an effective tax rate of 24% during this time period, though this still heavily contrasts the 35% tax rate in the US, the country which made up approximately 68% of their sales in 2018.<sup>[23]</sup><sup>[24]</sup>
+
+### Trade Union Opposition
+In both the US and UK, Amazon has opposed and prevented efforts to unionize. After a union drive in 2001, 850 employees were layed off, which subsequently caused the Washington Alliance of Technological Workers to accuse the company of violating union laws. Even though the Union claimed Amazon managers subjected employees to intimidation and heavy propoganda, Amazon denied any link between the employees being fired and their unionization efforts.<sup>[25]</sup>
+
+In 2001, Amazon UK hired a management consultant from the US, The Burke Group, to assist in defeating the unionization efforts of the Graphical, Paper, and Media Union in their Milton Keynes distribution depot.<sup>[26]</sup>
+
+In 2018, internal training videos revealed that Amazon's stance was "not anti-union, but not neutral", as they believe unions aren't in the best interest for their share-holders or associates.<sup>[27]</sup>
+
+Two years later in 2020, leaked internal documents we're leaked revealing that at over 510 locations, Amazon's grocery store chain Whole Foods had tracked the likelyhood of each location to unionize. They took in factors such as racial and ethnic diversity, how poor the situated community was, proximity to other unions to determine what they called a "unionization risk".<sup>[28]</sup><sup>[29]</sup><sup>[30]</sup>
+
+During the Bessemer, Alabama unionization efforts in April of 2021, the National Labor Relations Board found that Amazon illegally fired two employees trying to organize.<sup>[31]</sup> Additionally, the Retail, Wholesale, and Department Store Union asked for a hearing from the NLRB about whether Amazon created "an atmosphere of confusion, coercion, and/or fear of repraisals."<sup>[32]</sup>
+
+### Sources
 |My Source Num|Wikipedia Source Num|
 |-|-|
 1|170
@@ -51,3 +65,14 @@ Due to a replacement battery bought by a Californian off of Amazon giving her 3r
 19|190
 20|191
 21|192
+22|193
+23|194
+24|https://press.aboutamazon.com/news-releases/news-release-details/amazoncom-announces-fourth-quarter-sales-20-724-billion
+25|206
+26|207
+27|208
+28|209
+29|210
+30|211
+31|212
+32|213
